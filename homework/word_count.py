@@ -124,7 +124,7 @@ def create_ouptput_directory(output_directory):
 # el directorio entregado como parámetro, y que se creo en el paso anterior.
 # Adicionalmente, el archivo debe contener una tupla por línea, donde el primer
 # elemento es la clave y el segundo el valor. Los elementos de la tupla están
-# separados por un tabulador.
+# separados por un tabulador
 #
 def save_output(output_directory, sequence):
     """Save Output"""
